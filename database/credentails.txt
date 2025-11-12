@@ -1,0 +1,7 @@
+Customer Dashboard
+username : customer@gmail.com
+Password :12345
+
+Admin Dashboard
+username : admin@gmail.com
+Password : Admin123
